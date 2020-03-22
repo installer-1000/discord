@@ -1,2 +1,1 @@
-# discord
-yee
+# discodbot
